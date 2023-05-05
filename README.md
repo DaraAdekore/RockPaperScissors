@@ -12,3 +12,9 @@ The app is written in Swift using the SwiftUI framework. It uses the Timer class
 * Adding a "Best of X" option to allow users to play multiple rounds
 * Adding animations to make the app more engaging
 * Allowing users to choose between different difficulty levels
+
+<img width="325" alt="Screenshot 2023-05-04 at 7 53 34 PM" src="https://user-images.githubusercontent.com/18224357/236369098-827fd74c-2cd5-45ba-808d-0e9d8ead05a7.png">
+
+
+https://user-images.githubusercontent.com/18224357/236369111-f5b0f809-8662-4f12-af02-8f70329579fd.mov
+
