@@ -1,0 +1,74 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "99aedda8ab6a18d978cb9b560f70a1cb20ee92a36ef149f56b782752bfcef8a0"
+    },
+    {
+      "guid" : "99aedda8ab6a18d978cb9b560f70a1cb8fe7f5c410e7c6a901ab039136089f43"
+    },
+    {
+      "guid" : "99aedda8ab6a18d978cb9b560f70a1cb0a127e6b740050acb8740fa9da573987"
+    }
+  ],
+  "containerPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissor.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests/Build/Products",
+      "derivedDataPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests",
+      "indexDataStoreFolderPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/dara/Documents/Development/RockPaperScissors/RockPaperScissorUITests/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos16.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

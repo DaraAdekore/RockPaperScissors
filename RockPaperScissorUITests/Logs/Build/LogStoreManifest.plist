@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C0C2E6F1-CC9A-454A-9097-48F2D66C8944</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0C2E6F1-CC9A-454A-9097-48F2D66C8944.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RockPaperScissor project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RockPaperScissor</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RockPaperScissor for testing with scheme RockPaperScissor</string>
+			<key>timeStartedRecording</key>
+			<real>705117553.01007402</real>
+			<key>timeStoppedRecording</key>
+			<real>705117554.31472003</real>
+			<key>title</key>
+			<string>Building workspace RockPaperScissor for testing with scheme RockPaperScissor</string>
+			<key>uniqueIdentifier</key>
+			<string>C0C2E6F1-CC9A-454A-9097-48F2D66C8944</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

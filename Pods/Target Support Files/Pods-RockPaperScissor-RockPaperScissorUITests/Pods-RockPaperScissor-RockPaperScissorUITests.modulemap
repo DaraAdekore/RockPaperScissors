@@ -1,0 +1,6 @@
+framework module Pods_RockPaperScissor_RockPaperScissorUITests {
+  umbrella header "Pods-RockPaperScissor-RockPaperScissorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
